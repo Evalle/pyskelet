@@ -1,6 +1,6 @@
-###pyskelet
+####pyskelet
 
-####A Skeleton directory for python projects
+####Skeleton directory for my future python projects
 
 Whenever you want to start a new python project, just do this:
 
